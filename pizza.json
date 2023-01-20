@@ -1,0 +1,814 @@
+{
+    "data" : [
+        {
+            "id": {
+                "xs": 1.1,
+                "sm": 1.2,
+                "md": 1.3,
+                "xl": 1.4
+            },
+            "name": "Qril Çiken Parmezan",
+            "img": "grill-ciken-parmezan.png",
+            "desc": "Sarımsaqlı Parmezan sousu, Qril Toyuğu, Vetçina, Pomidor, Mozzarella Pendiri, Halapeno Bibəri",
+            "chick": false,
+            "meat": false,
+            "vegan": false,
+            "spicy": true,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 5.5,
+                "sm": 11,
+                "md": 17,
+                "xl": 21
+            }
+        },
+        {
+            "id": {
+                "xs": 2.1,
+                "sm": 2.2,
+                "md": 2.3,
+                "xl": 2.4
+            },
+            "name": "Amerikan Hot",
+            "img": "american-hot.png",
+            "desc": "Pizza Sous, Mozzarella pendiri, Pepperoni və Halapenyo Bibəri",
+            "chick": false,
+            "meat": false,
+            "vegan": false,
+            "spicy": true,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 6,
+                "sm": 12,
+                "md": 18,
+                "xl": 23
+            }
+        },
+        {
+            "id": {
+                "xs": 3.1,
+                "sm": 3.2,
+                "md": 3.3,
+                "xl": 3.4
+            },
+            "name": "Acılı Çiken Ranç",
+            "img": "spicy-chicken-ranch.png",
+            "desc": "Ranch Sousu, Toyuq Əti, Göbələklər,  Halapenyo Bibəri, Təzə Doğranmış Pomidorlar və Mozzarella Pendiri",
+            "chick": false,
+            "meat": false,
+            "vegan": false,
+            "spicy": true,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 7,
+                "sm": 13,
+                "md": 19,
+                "xl": 25
+            }
+        },
+        {
+            "id": {
+                "xs": 4.1,
+                "sm": 4.2,
+                "md": 4.3,
+                "xl": 4.4
+            },
+            "name": "Çiken Ranç",
+            "img": "chicken_ranch.jpg",
+            "desc": "Qril Toyuq, Pomidor, Ranç Sousu, Mozzarella Pendiri",
+            "chick": true,
+            "meat": false,
+            "vegan": false,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 8.5,
+                "sm": 12.5,
+                "md": 16,
+                "xl": 20
+            }
+        },
+        {
+            "id": {
+                "xs": 5.1,
+                "sm": 5.2,
+                "md": 5.3,
+                "xl": 5.4
+            },
+            "name": "Acılı Vegetarian",
+            "img": "vegetarian-acili.png",
+            "desc": "Halapenyo Bibəri, Pomidor, Göbələk, Qara Zeytun, Yaşıl Bibər və Mozzarella Pendiri",
+            "chick": false,
+            "meat": false,
+            "vegan": true,
+            "spicy": true,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 8,
+                "sm": 13.5,
+                "md": 19,
+                "xl": 24
+            }
+        },
+        {
+            "id": {
+                "xs": 6.1,
+                "sm": 6.2,
+                "md": 6.3,
+                "xl": 6.4
+            },
+            "name": "Cheddar Dabl Burger",
+            "img": "cheddar-dabl-burger.png",
+            "desc": "1000 ada sousu, Mal əti, Pomidor, Mozzarella, Cheddar",
+            "chick": false,
+            "meat": true,
+            "vegan": false,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 8,
+                "sm": 12.5,
+                "md": 18.5,
+                "xl": 22
+            }
+        },
+        {
+            "id": {
+                "xs": 7.1,
+                "sm": 7.2,
+                "md": 7.3,
+                "xl": 7.4
+            },
+            "name": "Papa Miks",
+            "img": "papamiks-sayt.png",
+            "desc": "Çiken BBQ, Hot&Spaysi, Marqarita, Klassik Pepperoni",
+            "chick": true,
+            "meat": false,
+            "vegan": false,
+            "spicy": true,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 7,
+                "sm": 14,
+                "md": 19,
+                "xl": 23.5
+            }
+        },
+        {
+            "id": {
+                "xs": 8.1,
+                "sm": 8.2,
+                "md": 8.3,
+                "xl": 8.4
+            },
+            "name": "Çiken Barbekyu",
+            "img": "chicken_barbekyu.jpg",
+            "desc": "Qril Toyuq, Göbələk, Barbekyu Sousu, Mozzarella Pendiri",
+            "chick": true,
+            "meat": false,
+            "vegan": false,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 8.5,
+                "sm": 12.5,
+                "md": 16,
+                "xl": 20
+            }
+        },
+        {
+            "id": {
+                "xs": 9.1,
+                "sm": 9.2,
+                "md": 9.3,
+                "xl": 9.4
+            },
+            "name": "Cheddar Çiken Club",
+            "img": "cheddar-ciken-club.png",
+            "desc": "Qril toyuğu, Pomidor, Vetçina, Mozzarella, Cheddar, Ranç sousu",
+            "chick": true,
+            "meat": false,
+            "vegan": false,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 7,
+                "sm": 14,
+                "md": 19,
+                "xl": 23.5
+            }
+        },
+        {
+            "id": {
+                "xs": 10.1,
+                "sm": 10.2,
+                "md": 10.3,
+                "xl": 10.4
+            },
+            "name": "Pendir",
+            "img": "pendir.png",
+            "desc": "Pizza sousu, Mozzarella Pendiri, Feta Penidiri, Parmezan Pendiri, Cheddar Pendiri",
+            "chick": false,
+            "meat": false,
+            "vegan": true,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 8.5,
+                "sm": 12.5,
+                "md": 16,
+                "xl": 20
+            }
+        },
+        {
+            "id": {
+                "xs": 11.1,
+                "sm": 11.2,
+                "md": 11.3,
+                "xl": 11.4
+            },
+            "name": "Meksika",
+            "img": "meksika.jpg",
+            "desc": "Qril Toyuq, Pomidor, Göbələk, Yaşıl Bibər, Halapenyo Bibəri, Mozzarella Pendiri",
+            "chick": true,
+            "meat": false,
+            "vegan": false,
+            "spicy": true,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 5.5,
+                "sm": 11,
+                "md": 17,
+                "xl": 21
+            }
+        },
+        {
+            "id": {
+                "xs": 12.1,
+                "sm": 12.2,
+                "md": 12.3,
+                "xl": 12.4
+            },
+            "name": "Super Papa",
+            "img": "meksika.jpg",
+            "desc": "Pepperoni, İtalyan Sosisi, Mal Ətindən Vetçina, Göbələk, Yaşıl Bibər, Qara Zeytun, Mozzarella Pendiri",
+            "chick": false,
+            "meat": true,
+            "vegan": false,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 7,
+                "sm": 14,
+                "md": 19,
+                "xl": 23.5
+            }
+        },
+        {
+            "id": {
+                "xs": 13.1,
+                "sm": 13.2,
+                "md": 13.3,
+                "xl": 13.4
+            },
+            "name": "Yunan",
+            "img": "yunan.jpg",
+            "desc": "Pomidor, Zeytun, Feta Pendiri, Oreqano, Acılı Bibər, Mozzarella Pendiri",
+            "chick": false,
+            "meat": false,
+            "vegan": true,
+            "spicy": true,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 8.5,
+                "sm": 12.5,
+                "md": 16,
+                "xl": 20
+            }
+        },
+        {
+            "id": {
+                "xs": 14.1,
+                "sm": 14.2,
+                "md": 14.3,
+                "xl": 14.4
+            },
+            "name": "Aylend Spays",
+            "img": "Aylend-Spays.png",
+            "desc": "Sarımsaq Sousu, Qril Toyuğu, Ananas, Pomidor, Mozzarella Pendiri, Halapeno bibəri, Çili Pul Bibəri",
+            "chick": false,
+            "meat": false,
+            "vegan": false,
+            "spicy": true,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 8.5,
+                "sm": 12.5,
+                "md": 16,
+                "xl": 20
+            }
+        },
+        {
+            "id": {
+                "xs": 15.1,
+                "sm": 15.2,
+                "md": 15.3,
+                "xl": 15.4
+            },
+            "name": "Çiken Çizburger",
+            "img": "chicken_cheeseburger.jpg",
+            "desc": "Qril Toyuq, Turşu Xiyar, Pomidor, Mozzarella Pendiri, Sous",
+            "chick": true,
+            "meat": false,
+            "vegan": false,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 7,
+                "sm": 14,
+                "md": 19,
+                "xl": 23.5
+            }
+        },
+        {
+            "id": {
+                "xs": 16.1,
+                "sm": 16.2,
+                "md": 16.3,
+                "xl": 16.4
+            },
+            "name": "Margarita",
+            "img": "margarita.jpg",
+            "desc": "Pomidor, Oreqano, Mozzarella Pendiri",
+            "chick": false,
+            "meat": false,
+            "vegan": true,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 8.5,
+                "sm": 12.5,
+                "md": 16,
+                "xl": 20
+            }
+        },
+        {
+            "id": {
+                "xs": 17.1,
+                "sm": 17.2,
+                "md": 17.3,
+                "xl": 17.4
+            },
+            "name": "Qarışıq Ət",
+            "img": "qarishiq_et.jpg",
+            "desc": "Pepperoni, İtalyan Sosisi, Mal Əti, Mal Ətindən Vetçina, Mozzarella Pendiri",
+            "chick": false,
+            "meat": true,
+            "vegan": false,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 9,
+                "sm": 12.5,
+                "md": 16,
+                "xl": 20
+            }
+        },
+        {
+            "id": {
+                "xs": 18.1,
+                "sm": 18.2,
+                "md": 18.3,
+                "xl": 18.4
+            },
+            "name": "Vegetarian",
+            "img": "vegetarian.jpg",
+            "desc": "Pomidor, Göbələk, Yaşıl Bibər, Qara Zeytun, Mozzarella Pendiri",
+            "chick": false,
+            "meat": false,
+            "vegan": true,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 7,
+                "sm": 14,
+                "md": 19,
+                "xl": 23.5
+            }
+        },
+        {
+            "id": {
+                "xs": 19.1,
+                "sm": 19.2,
+                "md": 19.3,
+                "xl": 19.4
+            },
+            "name": "Dabl Çizburger",
+            "img": "double_cheeseburger.jpg",
+            "desc": "Mal Əti, Turşu Xiyar, Pomidor, Mozzarella Pendiri, Sous",
+            "chick": false,
+            "meat": true,
+            "vegan": false,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 6,
+                "sm": 11,
+                "md": 16,
+                "xl": 20
+            }
+        },
+        {
+            "id": {
+                "xs": 20.1,
+                "sm": 20.2,
+                "md": 20.3,
+                "xl": 20.4
+            },
+            "name": "Havay",
+            "img": "havay.jpg",
+            "desc": "Qril Toyuq, Ananas, Ekstra Mozzarella",
+            "chick": true,
+            "meat": false,
+            "vegan": false,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 8,
+                "sm": 12.5,
+                "md": 18.5,
+                "xl": 22
+            }
+        },
+        {
+            "id": {
+                "xs": 21.1,
+                "sm": 21.2,
+                "md": 21.3,
+                "xl": 21.4
+            },
+            "name": "Vestern Barbekyu",
+            "img": "vestern_barbekyu.jpg",
+            "desc": "Mal Əti, Göbələk, Barbekyu Sousu, Mozzarella Pendiri",
+            "chick": false,
+            "meat": true,
+            "vegan": false,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 5.5,
+                "sm": 11,
+                "md": 17,
+                "xl": 21
+            }
+        },
+        {
+            "id": {
+                "xs": 22.1,
+                "sm": 22.2,
+                "md": 22.3,
+                "xl": 22.4
+            },
+            "name": "Klassik Pepperoni",
+            "img": "klassik_pepperoni.jpg",
+            "desc": "Pepperoni, Ekstra Mozzarella",
+            "chick": false,
+            "meat": false,
+            "vegan": false,
+            "spicy": true,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 8,
+                "sm": 12,
+                "md": 18,
+                "xl": 23
+            }
+        },
+        {
+            "id": {
+                "xs": 23.1,
+                "sm": 23.2,
+                "md": 23.3,
+                "xl": 23.4
+            },
+            "name": "Çiken Parmezan",
+            "img": "chicken_parmesan_item.jpg",
+            "desc": "Toyuq Poppersləri, Parmesan, Göbələk, İtalyan Ədviyyatları, Mozzarella Pendiri, Sarımsaq Sousu",
+            "chick": true,
+            "meat": false,
+            "vegan": false,
+            "spicy": true,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 8,
+                "sm": 12.5,
+                "md": 18.5,
+                "xl": 22
+            }
+        },
+        {
+            "id": {
+                "xs": 24.1,
+                "sm": 24.2,
+                "md": 24.3,
+                "xl": 24.4
+            },
+            "name": "Hot and Spaysi",
+            "img": "hot_and_spaysi.jpg",
+            "desc": "Mal Əti, Pomidor, Yaşıl Bibər, Halapenyo Bibəri, Mozzarella Pendiri",
+            "chick": false,
+            "meat": true,
+            "vegan": false,
+            "spicy": true,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 5.5,
+                "sm": 11,
+                "md": 17,
+                "xl": 21
+            }
+        },
+        {
+            "id": {
+                "xs": 25.1,
+                "sm": 25.2,
+                "md": 25.3,
+                "xl": 25.4
+            },
+            "name": "Marinera",
+            "img": "Marinera.jpg",
+            "desc": "Ton Balığı, Yaşıl Bibər, Qara Zeytun, Mozzarella Pendiri",
+            "chick": false,
+            "meat": true,
+            "vegan": false,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 6,
+                "sm": 12,
+                "md": 18,
+                "xl": 23
+            }
+        },
+        {
+            "id": {
+                "xs": 26.1,
+                "sm": 26.2,
+                "md": 26.3,
+                "xl": 26.4
+            },
+            "name": "Little İtalya",
+            "img": "little_italy.jpg",
+            "desc": "Pepperoni, İtalyan Sosisi, Göbələk, Qara Zeytun, Oreqano, Mozzarella Pendiri",
+            "chick": false,
+            "meat": true,
+            "vegan": false,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 8,
+                "sm": 12.5,
+                "md": 18.5,
+                "xl": 22
+            }
+        },
+        {
+            "id": {
+                "xs": 27.1,
+                "sm": 27.2,
+                "md": 27.3,
+                "xl": 27.4
+            },
+            "name": "Çiken Baffalo",
+            "img": "chicken_buffalo.jpg",
+            "desc": "Toyuq Poppersləri, Vetçina, Baffalo Sousu, Ranç Sousu, Mozzarella Pendiri",
+            "chick": true,
+            "meat": false,
+            "vegan": false,
+            "spicy": true,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 6,
+                "sm": 12,
+                "md": 18,
+                "xl": 23
+            }
+        },
+        {
+            "id": {
+                "xs": 28.1,
+                "sm": 28.2,
+                "md": 28.3,
+                "xl": 28.4
+            },
+            "name": "Nyu Orleans",
+            "img": "new_orleans_pizza.jpg",
+            "desc": "Qarğıdalı, Qril Toyuq, Göbələk, Yaşıl Bibər, Sarımsaq Sousu, Mozzarella Pendiri",
+            "chick": true,
+            "meat": false,
+            "vegan": false,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 8,
+                "sm": 12.5,
+                "md": 18.5,
+                "xl": 22
+            }
+        },
+        {
+            "id": {
+                "xs": 29.1,
+                "sm": 29.2,
+                "md": 29.3,
+                "xl": 29.4
+            },
+            "name": "Çiken Göbələk",
+            "img": "Mushroom 320x220 px.jpg",
+            "desc": "Qril toyuq, Turşu xiyar, Göbələk, Mozzarella, Göbələk sousu",
+            "chick": true,
+            "meat": false,
+            "vegan": false,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 6,
+                "sm": 12,
+                "md": 18,
+                "xl": 23
+            }
+        },
+        {
+            "id": {
+                "xs": 30.1,
+                "sm": 31.2,
+                "md": 31.3,
+                "xl": 31.4
+            },
+            "name": "Çiken Barbekyu",
+            "img": "chicken_barbekyu.jpg",
+            "desc": "Qril Toyuq, Göbələk, Barbekyu Sousu, Mozzarella Pendiri",
+            "chick": true,
+            "meat": false,
+            "vegan": false,
+            "spicy": false,
+            "size": {
+                "xs": "Mini pizza, 15sm",
+                "sm": "Kiçik, 23m",
+                "md": "Orta, 30sm",
+                "xl": "Böyük, 35sm"
+            },
+            "price": {
+                "xs": 8,
+                "sm": 12.5,
+                "md": 18.5,
+                "xl": 22
+            }
+        }
+    ]
+}

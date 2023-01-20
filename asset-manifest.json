@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Pizza-App-Hooks/static/css/main.562375a6.css",
+    "main.js": "/React-Pizza-App-Hooks/static/js/main.e9a1fd98.js",
+    "index.html": "/React-Pizza-App-Hooks/index.html",
+    "main.562375a6.css.map": "/React-Pizza-App-Hooks/static/css/main.562375a6.css.map",
+    "main.e9a1fd98.js.map": "/React-Pizza-App-Hooks/static/js/main.e9a1fd98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.562375a6.css",
+    "static/js/main.e9a1fd98.js"
+  ]
+}
